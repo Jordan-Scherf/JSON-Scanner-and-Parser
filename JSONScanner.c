@@ -1,7 +1,7 @@
 /*
 * Name: Jordan Scherf, 5005736913, Assignment  2
-* Description: This program acts as an interpreter for a json file to ensure its formated correctly.
-* Input: valid named Json file.
+* Description: This program acts as an interpreter for a JSON file to ensure it's formatted correctly.
+* Input: valid named JSON file.
 * Output: A list of tokens and confirmation of successful parsing and scanning.
 */
 #include <stdio.h>
