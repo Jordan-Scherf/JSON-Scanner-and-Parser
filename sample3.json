@@ -1,0 +1,7 @@
+{
+ "animal" : {
+ 	 "reptile":"crocodile",
+ 	 "bird":"pigeon",
+ 	 "mammal":"giraffe"
+ ]
+}

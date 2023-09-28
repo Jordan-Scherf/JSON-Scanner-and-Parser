@@ -1,0 +1,15 @@
+{
+  "fruit_array" : [
+    "apple",
+    "orange",
+    "banana"
+  ],
+  "boolean" : true,
+  "null" : null,
+  "number" : 87,
+  "info" : {
+     "name" : "John",
+     "age" : 45
+  },
+  "string" : "hello" 
+ }
