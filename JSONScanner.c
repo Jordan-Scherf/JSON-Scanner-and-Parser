@@ -1,5 +1,5 @@
 /*
-* Name: Jordan Scherf, 5005736913, Assignment  2
+* Name: Jordan Scherf
 * Description: This program acts as an interpreter for a JSON file to ensure it's formatted correctly.
 * Input: valid named JSON file.
 * Output: A list of tokens and confirmation of successful parsing and scanning.
@@ -421,7 +421,6 @@ while((c = fgetc(file)) != EOF){
     
     default:
        if(c >= 'A' || c <=  'Z' || c >= 'a' || c <= 'z' || c >= '0' || c <= '9'){
-            //printf("In this bitch");
             T.kind = CONST;
             T.lineNo = lineNumber;
             int i = 0;
